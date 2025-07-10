@@ -17,12 +17,13 @@ Animation & UI: Framer Motion, exploring Three.js
 Automation & AI: Beginner with n8n automation
 
 🌐 Live Production App:
-www.phh3.ng – A social running club called Hash House Harriers with a branch located in Port Harcourt
+www.phh3.ng – A social running club that fosters fitness, fun, and community through scheduled runs and events.
+www.bullshark.ng - A licensed Nigerian private security company providing professional and affordable protection solutions. 
+www.tehiljem.com - A real estate development firm focused on affordable luxury housing. 
 
 🛠️ Ongoing Projects:
-BullShare – A company in port harcourt that provides security services within nigeria.
-
-Tehiljem – A real estate frontend project with API integration, SSR, SSG, and animated transitions
+Omari Premium Water
+Mobile app
 
 
 📁 Portfolio:
